@@ -1,3 +1,5 @@
+package com.samhudgens;
+
 import java.util.Scanner;
 
 /**

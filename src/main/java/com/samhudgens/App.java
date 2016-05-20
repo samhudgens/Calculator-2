@@ -1,3 +1,5 @@
+package com.samhudgens;
+
 /**
  * Created by samhudgens on 5/20/16.
  */
@@ -99,7 +101,7 @@ public class App {
                     break;
                 case 21:
                     working = false;
-                    System.out.println("Calculator off");
+                    System.out.println("com.samhudgens.Calculator off");
                     break;
             }
             System.out.println(display.currentDisplayValue);
